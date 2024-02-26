@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/ArturLuisOliveira/key-transform.git"
   },
-  "version": "1.0.21",
+  "version": "1.0.23",
   "description": "Helper to transform object keys",
   "main": "dist/index.js",
   "author": "ArturLuisOliveira",
